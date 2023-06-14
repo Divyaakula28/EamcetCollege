@@ -1,6 +1,4 @@
 Django
 requests
 gunicorn
-pandas
-json
 whitenoise
