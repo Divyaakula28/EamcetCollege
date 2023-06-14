@@ -121,6 +121,8 @@ USE_TZ = True
 STATIC_URL = '/static/'
 MEDIA_URL='media/'
 
+DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
 import os 
 
 # At the end of file. add these lines
